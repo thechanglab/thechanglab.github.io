@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Variant Dashboard
+title: Variant Dashboard Info
 subtitle: About the Alaska Coronavirus Variant Dashboard
 ---
 ## Who created the dashboard?
