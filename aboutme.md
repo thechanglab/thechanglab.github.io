@@ -1,9 +1,13 @@
 ---
 layout: page
 title: Variant Dashboard
+subtitle: About the Alaska Coronavirus Variant Dashboard
 ---
+## Who created the dashboard?
+This dashboard was created as part of the *Alaska SARS-CoV-2 Sequencing Consortium* which is an partnership between the University of Alaska, Alaska State Virology Lab, Department of Health and Social Services, and other state agencies with the aim to increase genomic surveillance of variants of concern (VOC) and variants of interest (VOI) in the state of Alaska. Also check out the weekly Alaska COVID-19 Genomic Surveillance [Situation Report](http://dhss.alaska.gov/covid19/HumanCoV/AKSeqCon_GenomicSituationReport.pdf) here.
 
-# About the Alaska Coronavirus Variant Dashboard
-This dashboard was created as part of the *Alaska SARS-CoV-2 Sequencing Consortium* which is an partnership between the University of Alaska, Alaska State Virology Lab, Department of Health and Social Services, and other state agencies with the aim to increase genomic surveillance of variants of concern (VOC) and variants of interest (VOI) in the state of Alaska.  Coronavirus variants have the potential to spread more rapidly, cause more severe disease, evade diagnostic detection, or reduce vaccine efficacy.  Timely and accurate surveillance of SARS-CoV-2 variants is key to informing public health policy and thus efforts to control the pandemic.
+## What is the significance of the variants dashboard?
+Coronavirus variants have the potential to spread more rapidly, cause more severe disease, evade diagnostic detection, or reduce vaccine efficacy.  Timely and accurate surveillance of SARS-CoV-2 variants is key to informing public health policy and thus efforts to control the pandemic in Alaska.
 
-On this dashboard you can find updates on a weekly basis on variants circulating in the state of Alaska.  Data found here can be found on GISAID.
+## Where does the data come from?
+On this dashboard you can find updates on a weekly basis on variants circulating in the state of Alaska based on data found in [GISAID](https://www.gisaid.org/).  Lineages are assigned using [Pangolin](https://cov-lineages.org/resources/pangolin.html).  To see how proportions of lineages in Alaska compare to national levels go to the [CDC's Variant Proportions page](https://covid.cdc.gov/covid-data-tracker/#variant-proportions).
