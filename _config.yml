@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Alaska Coronavirus Variants Dashboard
+title: AK Variants
 
 # Your name to show in the footer
 author: Alaska COVID-19 Sequencing Consortium
@@ -14,7 +14,7 @@ author: Alaska COVID-19 Sequencing Consortium
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Dashboard: "Variant Dashboard"
+  About the Dashboard: "About Dashboard"
   COVID-19 Resources:
     - DHSS COVID-19 Info: "http://dhss.alaska.gov/dph/epi/id/pages/covid-19/default.aspx"
     - GISAID: "https://www.gisaid.org/"
