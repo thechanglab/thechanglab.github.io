@@ -14,6 +14,7 @@ author: Alaska SARS-CoV-2 Sequencing Consortium
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Dashboard: "dashboard"
   About the Dashboard: "aboutme"
   COVID-19 Resources:
     - AK DHSS COVID-19 Info: "http://dhss.alaska.gov/dph/epi/id/pages/covid-19/default.aspx"
