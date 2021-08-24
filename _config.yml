@@ -14,7 +14,7 @@ author: Alaska COVID-19 Sequencing Consortium
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About the Dashboard: "About Dashboard"
+  About the Dashboard: "aboutme"
   COVID-19 Resources:
     - DHSS COVID-19 Info: "http://dhss.alaska.gov/dph/epi/id/pages/covid-19/default.aspx"
     - GISAID: "https://www.gisaid.org/"
