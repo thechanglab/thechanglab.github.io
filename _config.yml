@@ -16,9 +16,9 @@ author: Alaska COVID-19 Sequencing Consortium
 navbar-links:
   About the Dashboard: "aboutme"
   COVID-19 Resources:
-    - DHSS COVID-19 Info: "http://dhss.alaska.gov/dph/epi/id/pages/covid-19/default.aspx"
-    - GISAID: "https://www.gisaid.org/"
-    - PANGOLIN: "https://pangolin.cog-uk.io/"
+    - AK DHSS COVID-19 Info: "http://dhss.alaska.gov/dph/epi/id/pages/covid-19/default.aspx"
+    - National Variant Proportions: "https://covid.cdc.gov/covid-data-tracker/#variant-proportions"
+    - Weekly Report: "http://dhss.alaska.gov/covid19/HumanCoV/AKSeqCon_GenomicSituationReport.pdf"
  
 
 # --- Logo --- #
