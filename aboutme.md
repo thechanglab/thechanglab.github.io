@@ -20,5 +20,5 @@ The *Variants Dashboard* is maintained by:
   - Devin M. Drown, PhD
     - email: dmdrown@alaska.edu
     - UAF website: [Faculty Information](https://www.uaf.edu/bw/about/faculty.php?who=Drown_Devin)
-    - 
+    
 #### This work is supported by Alaska INBRE, an Institutional Development Award (IDeA) from the National Institute of General Medical Sciences of the National Institutes of Healthunder grant number 2P20GM103395
