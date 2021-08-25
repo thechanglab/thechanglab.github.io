@@ -16,7 +16,7 @@ On this dashboard you can find updates on a weekly basis on variants circulating
 The *Variants Dashboard* is maintained by:
   - Tracie J. Haan, MS
     - email: tjhaan@alaska.edu
-    - website: [tjhaan.github.io](tjhaan.github.io)
+    - website: [tjhaan.github.io](https://tjhaan.github.io/)
   - Devin M. Drown, PhD
     - email: dmdrown@alaska.edu
     - UAF website: [Faculty Information](https://www.uaf.edu/bw/about/faculty.php?who=Drown_Devin)
