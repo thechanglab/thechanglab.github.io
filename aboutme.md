@@ -11,3 +11,5 @@ Coronavirus variants have the potential to spread more rapidly, cause more sever
 
 ## Where does the data come from?
 On this dashboard you can find updates on a weekly basis on variants circulating in the state of Alaska based on data found in [GISAID](https://www.gisaid.org/).  Lineages are assigned using [Pangolin](https://cov-lineages.org/resources/pangolin.html).  To see how proportions of lineages in Alaska compare to national levels go to the [CDC's Variant Proportions page](https://covid.cdc.gov/covid-data-tracker/#variant-proportions).
+
+### This work is supported by Alaska INBRE, an Institutional Development Award (IDeA) from the National Institute of General Medical Sciences of the National Institutes of Healthunder grant number 2P20GM103395
