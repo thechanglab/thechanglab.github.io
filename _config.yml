@@ -15,7 +15,7 @@ author: Alaska SARS-CoV-2 Sequencing Consortium
 
 navbar-links:
   About the Dashboard: "aboutme"
-  About Variants: "aboutvariants"
+    - About Variants: "aboutvariants"
   COVID-19 Resources:
     - AK DHSS COVID-19 Info: "http://dhss.alaska.gov/dph/epi/id/pages/covid-19/default.aspx"
     - National Variant Proportions: "https://covid.cdc.gov/covid-data-tracker/#variant-proportions"
