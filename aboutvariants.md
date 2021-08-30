@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Variants
-subtitle: 
+subtitle:
 ---
 # Glossary of Technical Terms
 
@@ -10,17 +10,26 @@ subtitle:
     - **deletion**: a mutation when one or more nucleotides are removed. This can lead to a *frame-shift* in which all subsequent amino acids are changed.
     - **insertion**: a mutation where one or more nucleotides are added.
 
+
 - **Variant**: a genome that contains a particular set of mutations
     - **Variant of Concern (VOC)** A variant with a gentic change and evidence for at least one of the following (source:[CDC](https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-info.html)):
         - Evidence of increased transmissibility
         - Evidence of increase in virulence or change in clinical disease presentation
         - Evidence of impact on diagnostics, treatments, or vaccines 
+
+
     - **Variant of Interest (VOI)** A variant identified to have genetic changes of interest that are associated with (source:[CDC](https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-info.html)):
         - Specific sets of mutations that are predicted to affect transmission, diagnostics, therapeutics, or immune escape.
         - Evidence that it is the cause of an increased proportion of cases or unique outbreak clusters.
         - Limited prevalence or expansion in the US or in other countries.
+
+
 - **Lineage**: All descendants on the branch of a phylogentic (*family*) tree. In this dashboard [PANGO](https://cov-lineages.org/) lineages are used to describe SARS-CoV-2 lineages.
+
+
 - **Strain**: Individual viral genome.
+
+![phylogenetic tree example](assets/img/tree.png)
 
 # Variants of Concern in the Context of Alaska
 Below you can find information about VOC's and when they were first detected in the state of Alaska.
