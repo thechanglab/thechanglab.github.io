@@ -96,3 +96,10 @@ Eta (also known as B.1.525) is circulating in New York and has begun circulating
 Zeta was first identified in Brazil and is also known as: P.2 or B.1.1.28.2. Little is known about this variant beyond that its prevalence grew in Brazil. This variant contains the E484K mutation in the Spike protein but lacks many key mutations in other variants of concern.
 
 #### In Alaska: The P.2 variant was identified in January 2021, in the Southwest Alaska region. This VOI has not been detected recently in Alaska.
+
+---
+
+## Mu - B.1.621
+Mu was first identified in Columbia in January 2021 and now has been detected in North and South America, Europe, and Asia.  There are several substitutions in this lineage that affect the Spike protein, including the amino acid changes I95I, Y144T, Y145S and the insertion 146 N in the N-terminal domain, R346K, E484K and N501Y in the Receptor Binding Domain and P681H in the S1/S2 cleavage site of the Spike protein. Little is known about the potential biological and epidemiological roles of these mutations, however, the rapid increase in some cities near herd immunity suggests epidemiological impact.
+
+#### In Alaska: The B.1.621 variant was identified in May 2021, in the Anchorage- Mat Su region.
