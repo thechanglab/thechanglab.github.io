@@ -24,5 +24,13 @@ The *Variants Dashboard* is maintained by:
   - Devin M. Drown, PhD
     - email: dmdrown@alaska.edu
     - UAF website: [Faculty Information](https://www.uaf.edu/bw/about/faculty.php?who=Drown_Devin)
+
+# This work is prepared by the Alaska Sequencing Consortium, including:
+Devin M. Drown *1*, Jayme Parker *2*, Lisa Smith *2*, Eric Bortz *3*, Jack Chen *1,2*
+*1* Institute of Arctic Biology, University of Alaska Fairbanks, Fairbanks, AK 99775
+*2* Department of Health and Social Services, Division of Public Health, Section of Laboratories
+*3* Department of Biological Sciences, University of Alaska Anchorage, Anchorage, AK 99508
+Correspondences: dmdrown@alaska.edu j.chen@alaska.edu jayme.parker@alaska.gov
+
     
 #### This work is supported by Epidemiology and Laboratory Capacity for Prevention and Control of Emerging Infectious Diseases (ELC) from the Centers for Disease Control and Prevention and Alaska INBRE, an Institutional Development Award (IDeA) from the National Institute of General Medical Sciences of the National Institutes of Health under grant number 2P20GM103395. 
