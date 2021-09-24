@@ -22,6 +22,8 @@ subtitle:
         - Specific sets of mutations that are predicted to affect transmission, diagnostics, therapeutics, or immune escape.
         - Evidence that it is the cause of an increased proportion of cases or unique outbreak clusters.
         - Limited prevalence or expansion in the US or in other countries.
+    
+    - **Variant Being Monitored (VBM)** A variant for which there is data indicating increased risk of transmission, diagnostic, or immune escape characteristic of VOC and VOIs that are no longer detected or are circulating at very low levels in the United States, and as such, do not pose a significant and imminent risk to public health in the United States.
 
 
 - **Lineage**: All descendants on the branch of a phylogentic (*family*) tree. In this dashboard [PANGO](https://cov-lineages.org/) lineages are used to describe SARS-CoV-2 lineages.
@@ -34,29 +36,6 @@ subtitle:
 # Variants of Concern in the Context of Alaska
 Below you can find information about VOC's and when they were first detected in the state of Alaska.
 
-## Alpha - B.1.1.7
-Alpha was first identified in the United Kingdom, also known as: Variant of Concern B.1.1.7, 202012/01, VOC-202012/01, 20B/501Y.V1, 20I/501Y.V1. This variant contains the N501Y mutation and a short deletion in the Spike (S) protein. This variant is concerning because it has shown to be significantly more transmissible (~50%) than the original SARS-CoV-2 lineage. Alpha does not appear to evade vaccine-induced neutralizing antibody responses. Alpha is still circulating in the US.
-
-#### In Alaska: Alpha was detected in December 2020 in the Anchorage/Mat-Su region. Cases have been detected throughout Alaska.
-![Mutations in VOC Alpha.](/assets/img/alpha.png)
-
----
-
-## Beta - B.1.351
-Beta (also known as: B.1.351, 20H/501Y.V2) was first identified in South Africa and is circulating in the US. The B.1.351 has both N501Y and E484K mutations in the Spike protein. This variant is concerning because it is significantly more transmissible (~50%) than the original SARS-CoV-2 lineages. Preliminary studies suggest Beta, like Gamma, may escape some vaccine-induced and naturally acquired antibody responses. However, as with all VOCs, the Pfizer, Moderna, and Johnson & Johnson/Janssen vaccines remain largely effective against this lineage. 
-
-#### In Alaska: First identified in March 2021 in the Anchorage/Mat-Su region. Cases were detected in the Anchorage/Mat-Su and Southeast regions in May.
-![Mutations in VOC Beta.](/assets/img/beta.png)
-
----
-
-## Gamma - P.1
-Gamma was first identified in Brazil, also known as: Variant of Concern P.1, B.1.1.28.1, 20J/501Y.V3. This variant contains three key mutations in the S gene: E484K, N501Y, and K417T. While preliminary studies suggest the Pfizer, Moderna, and Johnson & Johnson/Janssen vaccines currently deployed in Alaska may have reduced efficacy against Gamma, these vaccines remain largely effective against this lineage and demonstrate protection against serious illness, hospitalizations, and death. Recent analyses suggest that Gamma may be more transmissible with higher risk of severe disease, to some degree.
-
-#### In Alaska: Gamma was identified in early February 2021 in the Anchorage/Mat-Su region. Cases have been detected throughout Alaska.
-![Mutations in VOC Gamma.](/assets/img/gamma.png)
-
----
 
 ## Delta - B.1.617.2-like
 Delta was first identified in India in late 2020, also known as: Variant of Concern B.1.617.2, 20A/S:478K. The Delta variant has become widespread over the last number of months and B.1.617.2 is the predominant lineage in many countries worldwide. In addition to B.1.617.2, Delta also contains lineages AY.1 – AY.25. The AY lineages break up B.1.617.2-like viruses into smaller related clusters that can be tracked separately. These lineages remain classified as the Delta variant and their designation as AY does not imply any functional biological difference from B.1.617.2.
@@ -69,10 +48,40 @@ Delta contains key mutations in the S gene: K417N, T478K, L452R, N501Y, P681R, a
 ---
 
 # Variants of Interest in the Context of Alaska
-Below you can find information about VOI's and when they were first detected in the state of Alaska.
+Below you can find information about VOI's and when they were first detected in the state of Alaska.  Currently there are no variants classified as VOIs in Alaska.
+
+---
+
+# Variants Being Monitored in the Context of Alaska
+Below you can find information about VBM's and when they were first detected in the state of Alaska. 
+
+
+## Alpha - B.1.1.7
+Alpha was first identified in the United Kingdom. December 29, 2020 alpha was classified as a as Variant of Concern but as of September 21, 2021 was downgraded to a VBM. It is also referred to as variant B.1.1.7, 202012/01, VOC-202012/01, 20B/501Y.V1, 20I/501Y.V1. This variant contains the N501Y mutation and a short deletion in the Spike (S) protein. This variant is concerning because it has shown to be significantly more transmissible (~50%) than the original SARS-CoV-2 lineage. Alpha does not appear to evade vaccine-induced neutralizing antibody responses. Alpha is still circulating in the US.
+
+#### In Alaska: Alpha was detected in December 2020 in the Anchorage/Mat-Su region. Cases have been detected throughout Alaska.
+![Mutations in VOC Alpha.](/assets/img/alpha.png)
+
+---
+
+## Beta - B.1.351
+Beta (also known as: B.1.351, 20H/501Y.V2) was first identified in South Africa and is circulating in the US. It was classified as a VOC December 29, 2020 and as of September 21, 2021 was downgraded to a VBM.  The B.1.351 has both N501Y and E484K mutations in the Spike protein. This variant is concerning because it is significantly more transmissible (~50%) than the original SARS-CoV-2 lineages. Preliminary studies suggest Beta, like Gamma, may escape some vaccine-induced and naturally acquired antibody responses. However, as with all VOCs, the Pfizer, Moderna, and Johnson & Johnson/Janssen vaccines remain largely effective against this lineage. 
+
+#### In Alaska: First identified in March 2021 in the Anchorage/Mat-Su region. Cases were detected in the Anchorage/Mat-Su and Southeast regions in May.
+![Mutations in VOC Beta.](/assets/img/beta.png)
+
+---
+
+## Gamma - P.1
+Gamma was first identified in Brazil, also known as: P.1, B.1.1.28.1, 20J/501Y.V3.  It was classified as a VOC December 29, 2020 and as of September 21, 2021 was downgraded to a VBM. This variant contains three key mutations in the S gene: E484K, N501Y, and K417T. While preliminary studies suggest the Pfizer, Moderna, and Johnson & Johnson/Janssen vaccines currently deployed in Alaska may have reduced efficacy against Gamma, these vaccines remain largely effective against this lineage and demonstrate protection against serious illness, hospitalizations, and death. Recent analyses suggest that Gamma may be more transmissible with higher risk of severe disease, to some degree.
+
+#### In Alaska: Gamma was identified in early February 2021 in the Anchorage/Mat-Su region. Cases have been detected throughout Alaska.
+![Mutations in VOC Gamma.](/assets/img/gamma.png)
+
+---
 
 ## Epsilon - B.1.429 & B.1.427
-Epsilon, includes B.1.429 and a related B.1.427 lineages, were first identified in California and known as: CA VUI1. The prevalence of these VOI grew in California from initial observations in summer 2020 and has spread to many other states. Research suggests an increased transmission (~20%). Deescalated from a VOC on June 29, 2021 due to the significant decrease in the proportion of B.1.429 lineage viruses circulating nationally and available data indicating that vaccines and treatments are effective against this variant. This variant is characterized by the L452R mutation in the S gene and is genetically like B.1.351 but lacks several key mutations. 
+Epsilon, includes B.1.429 and a related B.1.427 lineages, were first identified in California and known as: CA VUI1. The prevalence of these VOI grew in California from initial observations in summer 2020 and has spread to many other states. Research suggests an increased transmission (~20%). Deescalated from a VOC on June 29, 2021 due to the significant decrease in the proportion of B.1.429 lineage viruses circulating nationally and available data indicating that vaccines and treatments are effective against this variant. Since September 21, 2021 epsilon has been classified as a VBM. This variant is characterized by the L452R mutation in the S gene and is genetically like B.1.351 but lacks several key mutations. 
 
 #### In Alaska: These variants have been detected across Alaska beginning in December 2020. This VOI has not been detected in Alaska since May 2021.
 
@@ -100,6 +109,7 @@ Zeta was first identified in Brazil and is also known as: P.2 or B.1.1.28.2. Lit
 ---
 
 ## Mu - B.1.621
-Mu was first identified in Columbia in January 2021 and now has been detected in North and South America, Europe, and Asia.  There are several substitutions in this lineage that affect the Spike protein, including the amino acid changes I95I, Y144T, Y145S and the insertion 146 N in the N-terminal domain, R346K, E484K and N501Y in the Receptor Binding Domain and P681H in the S1/S2 cleavage site of the Spike protein. Little is known about the potential biological and epidemiological roles of these mutations, however, the rapid increase in some cities near herd immunity suggests epidemiological impact.
+Mu was first identified in Columbia in January 2021 and is also known as: B.1.621. This variant has been detected in North and South America, Europe, and Asia. There are several mutations in this lineage that affect the Spike protein including I95I, Y144T, Y145S, R346K, E484K and N501Y in the Receptor Binding Domain and P681H in the S1/S2 cleavage site. Little is known about the potential biological and epidemiological roles of these mutations. 
 
 #### In Alaska: The B.1.621 variant was identified in May 2021, in the Anchorage- Mat Su region.
+
