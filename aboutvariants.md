@@ -38,11 +38,13 @@ Below you can find information about VOC's and when they were first detected in 
 
 
 ## Delta - B.1.617.2-like
-Delta was first identified in India in late 2020, also known as: Variant of Concern B.1.617.2, 20A/S:478K. The Delta variant has become widespread over the last number of months and B.1.617.2 is the predominant lineage in many countries worldwide. In addition to B.1.617.2, Delta also contains lineages AY.1 – AY.25. The AY lineages break up B.1.617.2-like viruses into smaller related clusters that can be tracked separately. These lineages remain classified as the Delta variant and their designation as AY does not imply any functional biological difference from B.1.617.2.
+Delta was first identified in India in late 2020, also known as: Variant of Concern B.1.617.2, 20A/S:478K. The Delta variant has become widespread over the last number of months and B.1.617.2 is the predominant lineage in many countries worldwide. 
+
+Classifications of [Delta lineages by the Pango nomenclature system](https://www.pango.network/new-ay-lineages/) are in constant flux, however, all AY designations are sub-lineages of the Delta variant. An AY designation doesn’t imply any functional biological difference from B.1.617.2. In addition to B.1.617.2, Delta also contains lineages AY.1 – AY.25. The AY lineages break up B.1.617.2-like viruses into smaller related clusters that can be tracked separately. Here we seperate Delta sub-lineages based on their prevalence in Alaska with designations updated weekly based on updated Pangolin designation. The [CDC](https://covid.cdc.gov/covid-data-tracker/#variant-proportions) reports AY.1 and AY.2 separately from the parent lineage B.1.617.2 due to the mutation of interest: K417N in Spike.
 
 Delta contains key mutations in the S gene: K417N, T478K, L452R, N501Y, P681R, and others of unknown significance. The spectrum of mutations in Delta evades binding of neutralizing antibodies induced by natural infection or vaccines to a measurable extent. This variant has significantly increased transmissibility. It is currently unclear whether Delta is associated with increased severity of infection. According to CDC data, Delta is currently driving case numbers and COVID-19 hospitalizations in the US, particularly among unvaccinated individuals. 
 
-#### In Alaska: Delta was identified in late May 2021 in the Anchorage/Mat-Su region. Cases have now been detected in many additional locations in Alaska. Delta VOC has predominated the surge of cases in July-August 2021 in Alaska. In Alaska, we have the original B.1.617.2 as well as a significant proportion of AY.4. AY.3, AY.10, and AY.12 make up a minority cases. 
+#### In Alaska: Delta was identified in late May 2021 in the Anchorage/Mat-Su region. Cases have now been detected in many additional locations in Alaska. Delta VOC has predominated the surge of cases in July-September 2021 in Alaska. In Alaska, we have the original B.1.617.2 as well as a significant proportion of several sub-lineages. 
 ![Mutations in VOC Delta.](/assets/img/delta.png)
 
 ---
