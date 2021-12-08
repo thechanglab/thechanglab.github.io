@@ -3,6 +3,16 @@ layout: page
 title: Variant Dashboard Info
 subtitle: About the Alaska Coronavirus Variant Dashboard
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-208707791-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-208707791-1');
+</script>
+
 ## Who created the dashboard?
 This dashboard was created as part of the *Alaska SARS-CoV-2 Sequencing Consortium* which is an partnership between the University of Alaska, Alaska State Virology Lab, Alaska Department of Health and Social Services, and other state agencies with the aim to increase genomic surveillance of variants of concern (VOC), variants of interest (VOI), and variants being monitored (VBM) in the state of Alaska. 
 
