@@ -3,6 +3,16 @@ layout: page
 title: About Variants
 subtitle:
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-208707791-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-208707791-1');
+</script>
+
 # Glossary of Technical Terms
 
 - **Mutation**: an error introduced in the genetic code during viral replication. Until experimental testing is conducted, we don't know if a mutation will lead to outcomes that are better (e.g., decrease transmissibility), worse (e.g., increase virulence), or have no effect. By sequencing samples we can see if a mutation is caused by a:
