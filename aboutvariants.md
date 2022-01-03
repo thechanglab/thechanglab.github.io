@@ -37,6 +37,16 @@ subtitle:
 # Variants of Concern in the Context of Alaska
 Below you can find information about VOC's and when they were first detected in the state of Alaska.
 
+## Omicron - B.1.1.529-like
+The newly designated VOC Omicron, also known as B.1.1.529, was reported to the World Health Organization (WHO) November 24, 2021. This variant was first detected in specimens collected in Botswana and South Africa. Shortly after first detection, Omicron was classified as a VOC based on epidemiological data that associated it with an increase in infections in South Africa. Since then Omicron has spread to countries across the world including the United States.
+
+The classification of Omicron is constantly in flux. As of the end of December 2021, sublineages of Omicron include BA.1-3.
+
+Omicron contains at least 30 amino acid substitutions, three small deletions, and one small insertion in the spike protein. Of these 30 mutations 15 are amino acid substitutions found in the receptor binding domain (RBD). The spectrum of mutations in Omicron likely contributes to higher transmissibility than the original SARS-CoV-2 virus, however, how easily Omicron spreads compared to Delta remains unknown. More data is needed to determine if Omicron causes more severe illness or deaths than other variants. 
+
+#### In Alaska: Omicron was detected in a sample collected late November 2021 from the Anchorage/Mat-Su region.  
+![Mutations in VOC Omicron.](/assets/img/omicron.png)
+
 
 ## Delta - B.1.617.2-like
 Delta was first identified in India in late 2020, also known as: Variant of Concern B.1.617.2, 20A/S:478K. The Delta variant has become widespread over the last number of months and B.1.617.2 is the predominant lineage in many countries worldwide. 
@@ -115,4 +125,3 @@ Zeta was first identified in Brazil and is also known as: P.2 or B.1.1.28.2. Lit
 Mu was first identified in Columbia in January 2021 and is also known as: B.1.621. This variant has been detected in North and South America, Europe, and Asia. There are several mutations in this lineage that affect the Spike protein including I95I, Y144T, Y145S, R346K, E484K and N501Y in the Receptor Binding Domain and P681H in the S1/S2 cleavage site. Little is known about the potential biological and epidemiological roles of these mutations. 
 
 #### In Alaska: The B.1.621 variant was identified in May 2021, in the Anchorage- Mat Su region.
-
