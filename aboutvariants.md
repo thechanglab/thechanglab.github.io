@@ -38,9 +38,10 @@ subtitle:
 Below you can find information about VOC's and when they were first detected in the state of Alaska.
 
 ## Omicron - B.1.1.529-like
-The newly designated VOC Omicron, also known as B.1.1.529, was reported to the World Health Organization (WHO) November 24, 2021. This variant was first detected in specimens collected in Botswana and South Africa. Shortly after first detection, Omicron was classified as a VOC based on epidemiological data that associated it with an increase in infections in South Africa. Since then Omicron has spread to countries across the world including the United States.
+VOC Omicron, also known as B.1.1.529, was reported to the World Health Organization (WHO) November 24, 2021. This variant was first detected in specimens collected from Botswana and South Africa. Shortly after first detection, Omicron was classified as a VOC based on epidemiological data that associated it with an increase in infections in South Africa. Since then, Omicron has spread to countries across the world including the United States.
 
-The classification of Omicron is constantly in flux. As of the end of December 2021, sublineages of Omicron include BA.1-3.
+The classification of Omicron is constantly in flux. As of the end of January 2022, sublineages of Omicron include BA.1 through BA.3. Tracking these Omicron sublineages remains important given the slight genetic variations that contribute to key characteristics such as transmissibility. For example, BA.2 has several genetic differences from BA.1, including changes to the spike protein, that have contributed to a slight advantage in terms of transmissibility. This slight difference in transmissibility appears smaller than the difference between transmissibility of BA.1 and Delta. 
+Another sublineage, BA.1.1, contains the R345K mutation which poses a specific threat to Sotrovimab monoclonal antibody effectiveness. This is concerning because Sotrovimab was the best monoclonal antibody therapy for Omicron prior to BA.1.1.
 
 Omicron contains at least 30 amino acid substitutions, three small deletions, and one small insertion in the spike protein. Of these 30 mutations 15 are amino acid substitutions found in the receptor binding domain (RBD). The spectrum of mutations in Omicron likely contributes to higher transmissibility than the original SARS-CoV-2 virus, however, how easily Omicron spreads compared to Delta remains unknown. More data is needed to determine if Omicron causes more severe illness or deaths than other variants. 
 
