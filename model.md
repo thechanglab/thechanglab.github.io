@@ -16,5 +16,4 @@ subtitle:
 </script>
 </head>
 
-<iframe height="1000" width="100%" frameborder="no" src="https://bacover1.shinyapps.io/alaska_covid/"> </iframe>
-
+<iframe height="1000" width="100%" frameborder="no" src="https://bacover1.shinyapps.io/alaska_covid/" > </iframe>
