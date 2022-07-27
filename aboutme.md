@@ -19,8 +19,8 @@ Data used for this dashboard relies on viral sequences that are shared via the [
 
 # Contact Us!
 The *Variants Dashboard* is maintained by:
-  - Tracie J. Haan, MS
-    - email: tjhaan@alaska.edu
+  - Bevyn Cover, BS
+    - email: bacover@alaska.edu
 
   - Devin M. Drown, PhD
     - email: dmdrown@alaska.edu
